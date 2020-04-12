@@ -3,4 +3,4 @@
 Para correr la aplicación:
 
 - `npm install`
-- `npm run start
+- `npm run start`
